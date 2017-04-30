@@ -1,0 +1,8 @@
+classes= 20
+//train  = /home/pjreddie/data/voc/train.txt
+train  = /home/tan/darknet/scripts/train.txt
+//valid  = /home/pjreddie/data/voc/2007_test.txt
+valid  = /home/tan/darknet/scripts/2006_test.txt
+names = data/voc.names
+backup = backup
+
